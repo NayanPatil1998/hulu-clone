@@ -69,7 +69,7 @@
 ## About The Project
 
 <video width="320" height="240" controls>
-  <source src="https://drive.google.com/file/d/1z0VxSKkqMDjLpH_b0puBOZ3z7SIUgjtW/view?usp=sharing" type="video/mp4">
+  <source src="https://github.com/NayanPatil1998/hulu-clone/blob/main/hulu.mp4" type="video/mp4">
 </video>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
